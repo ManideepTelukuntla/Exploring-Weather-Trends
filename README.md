@@ -99,6 +99,7 @@ Following steps are performed in notebook while analyzing exported data from SQL
 
 ## Observations
 From the following visual we can make following conclusions:
+
 ![visual 3](https://i.imgur.com/otYyEez.png)
 
 1. On average, temperature for local(Hyderabad) is higher compared to the global, which means the city I live in is hotter compared to the global.
